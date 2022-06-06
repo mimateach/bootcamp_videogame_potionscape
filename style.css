@@ -1,0 +1,61 @@
+body {
+    background-color: #f4e3c9;
+    color: #141260;
+    font-family: monospace;
+}
+
+#desc-title {
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#description {
+    display: block;
+    border-style: double;
+    border-color: #141260;
+    border-width: 4px;    
+    width: 80vw;
+    margin:auto;
+    padding: 20px;
+    text-align: center;
+}
+
+
+input {
+    display:block;
+    margin:auto;
+    margin-top: 20px;
+    background-color: #141260;
+    padding: 5px;
+    font-family: inherit;
+    background-color: inherit;
+    color: inherit;
+}
+
+label {
+    display:block;
+    text-align: center;
+    width: 80vw;
+    margin: auto;
+    padding: 20px;
+}
+
+#do {
+    display: block;
+    background-color: inherit;
+    color: inherit;
+    font-family: inherit;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid #141260;
+    border-radius: 20px;
+}
+
+#do:hover{
+    background-color: #141260;
+    color: #f4e3c9;
+
+}
+
+
+
